@@ -1,1 +1,1 @@
-export const DB_NAME = "PRTUBE";
+export const DB_NAME = "Syllbus_Tracker";
